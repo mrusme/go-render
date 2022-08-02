@@ -17,7 +17,7 @@ go get -u github.com/mrusme/go-render
 ## Getting Started
 
 
-### Querying Sites by Team ID
+### Listing Services
 
 ```go
 package main
